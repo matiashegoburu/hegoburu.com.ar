@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Matias Hegoburu"
-  avatar           : "/assets/images/P1070342_DxO_pp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/P1070338_DxO_pp_v2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Desarrollador de Software, Instructor de Qigong, Maestro de Reiki, practicante de Taijiquan"
   location         : "Arlington, Virginia"
   email            : "matias@hegoburu.com.ar"
