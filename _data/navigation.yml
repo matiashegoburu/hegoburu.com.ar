@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Acerca de mí"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /acerca-de-mi/
   - title: "Qigong"
     url: /qigong/
   - title: "Reiki"
