@@ -1,6 +1,8 @@
 ---
 layout: single
 permalink: /acerca-de-mi/
+published: true
+author_profile: true
 ---
 
 ## A New Post
