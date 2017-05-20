@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "Acerca de mí"
-	url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Qigong"
-	url: /qigong/
+    url: /qigong/
   - title: "Reiki"
-	url: /reiki/
+    url: /reiki/
   - title: "Material On-Line"
-	url: /material-online/
+    url: /material-online/
   - title: "Contacto"
-	url: /contacto/
+    url: /contacto/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
