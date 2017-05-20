@@ -3,6 +3,7 @@ layout: single
 permalink: /acerca-de-mi/
 published: true
 author_profile: true
+title: Acerca de mí
 ---
 
 ## A New Post
