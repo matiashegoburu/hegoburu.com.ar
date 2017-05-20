@@ -28,3 +28,23 @@ Por varios años Matías fue autodidacta, aprendiendo de todo tipo de material q
 Actualmente Matías continua su formación en este centro, además de su aprendizaje autotidacta, y esta habilitado para enseñar los tres primeros niveles de Zhineng Qigong, ademas de sus métodos adicionales y práctica de sanación.
 
 Matías ha comenzando su formación en Yuan Gong en 2017.
+
+### Experiencia
+
+- Dictado de retiro intensivo de 4 días de formación y práctica de Zhi Neng 2 (2017)
+- Clases regulares y talleres en espacio propio en Córdoba capital (2016)
+- Dictado del Taller de formación anual de "Zhi Neng 3" como Instructor invitado en la escuela "El Centro" de la Plata, por cortesía del Profesor Gustavo Villar (2016) 
+- Escuela Córdoba Tai Chi: Instructor de Zhineng Qigong (2015 – 2016)
+- Escuela Córdoba Tai Chi: Dictado del Taller “Zhineng I” (2015)
+- Dictado del Taller “8 Ejercicios Fundamentales”, en el marco del retiro de Taiji y Qigong de la escuela “El Centro” de La Plata, organizado por el Profesor Gustavo Villar en Capilla del Monte (2015)
+- Escuela Córdoba Tai Chi: Dictado del Taller “8 Ejercicios Funadmentales” (2014)
+
+### Formación
+
+- Escuela Yuan Tze Center - Instructor de Yuan Gong (2017 - en curso)
+- Escuela Yuan Tze Center - Instructor de Zhineng Qigong (2013 - en 2017)
+- Escuela Córdoba Tai chi – Yang Martial Arts Association Córdoba: Practicante de Taiji Quan estilo Yang (2011 - en curso)
+- Escuela Kai Men - Practicante de Taiji Quan estilo Yang (2004 - 2010)
+- Escuela de Reiki - Reiki Usui Master / Teacher (2000 - 2003)
+- Escuela Luz Venidera - Terapeuta de Sonido (2000 - 2003)
+- Universidad Abierta Interamericana - Lic. En Sistemas de Información (2000 - 2005)
