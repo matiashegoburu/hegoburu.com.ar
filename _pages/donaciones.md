@@ -11,11 +11,13 @@ El contenido de esta página, incluyendo los materiales online, se ofrecen abier
 
 </script>
 
-<table style="border: none" >
+<table cellspacing="0" style="border: none" >
 	<tr>
     <td><a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=86473927-7064d3d2-f641-4ce5-b814-cf2de968e4f7" name="MP-payButton" class='blue-ar-l-ov-arall'>$10 ARS</a>
 </td>
     <td><a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=86473927-a6b4f75c-c1ea-46fc-8257-bd8aad467fdf" name="MP-payButton" class='blue-ar-l-ov-arall'>$25 ARS</a></td>
+    </tr>
+    <tr>
     <td><a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=86473927-b5fc71e9-f094-413e-8ca3-34b15fba4b76" name="MP-payButton" class='blue-ar-l-ov-arall'>$50 ARS</a>
 </td>
     <td><a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=86473927-58d1ecea-23ab-47d9-be9d-fa8740cec244" name="MP-payButton" class='blue-ar-l-ov-arall'>$100 ARS</a>
