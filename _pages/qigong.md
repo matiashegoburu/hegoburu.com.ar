@@ -13,6 +13,7 @@ Matías es Instructor de Zhi Neng Qigong y Yuan Gong:
 
 <iframe width="637" height="455" src="https://www.youtube.com/embed/CtXILEDEehE" frameborder="0" allowfullscreen></iframe>
 
+
 **Zhineng Qigong** es un sistema de Qigong moderno que se caracteriza por ser un sistema fácil de aprender y transmitir, a la vez que es muy efectivo para la sanación y el desarrollo de la conciencia. Este sistema fue diseñado por el maestro Pang Ming, que ha condensado la esencia de muchos sistemas y enseñanzas tradicionales, en conjunto con conocimiento médico convencional y de la medicina tradicional china. El resultado es un sistema integral de auto sanación y de cultivo de la conciencia apto para el mundo moderno.
 
 ### Beneficios
