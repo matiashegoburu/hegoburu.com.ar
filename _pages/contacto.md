@@ -4,8 +4,8 @@ published: true
 title: Contacto
 ---
 <div class="panel">
-  <form id="formInscribirme" action="//formspree.io/info@zhineng.com.ar" method="POST">
-    <input type="hidden" name="_subject" value="Zhineng.com.ar - Contacto">
+  <form id="formInscribirme" action="//formspree.io/matias@hegoburu.com.ar" method="POST">
+    <input type="hidden" name="_subject" value="matias.hegoburu.com.ar - Contacto">
     <div class="row">
       <div class="large-12 columns">
         <label>Tu correo: <input type="email" name="_replyto" placeholder="Ingresa tu dirección de correo electrónico"></label>
@@ -26,7 +26,7 @@ title: Contacto
   <h3>Otras formas de contacto</h3>
   <p>También puedes ponerte en contacto con nosotros de las siguientes maneras:</p>
   <ul>
-    <li><strong>Por correo electrónico: </strong><a href="mailto:info@zhineng.com.ar?subject=Zhineng.com.ar - Contacto">info@zhineng.com.ar</a></li>
-    <li><strong>Por celular: </strong>+54 351 15-751-6335</a></li>
+    <li><strong>Por correo electrónico: </strong><a href="mailto:matias@hegoburu.com.ar?subject=Hegoburu.com.ar - Contacto">matias@hegoburu.com.ar</a></li>
+    <li><strong>Por celular: </strong>+1 202-763-1832</li>
   </ul>
 
