@@ -5,7 +5,7 @@ published: true
 author_profile: true
 title: Acerca de mí
 ---
-{% include toc title="Unique Title" icon="file-text" %}
+{% include toc title="Contenido" %}
 
 Matias es instructor de Zhineng Qigong, Master Teacher de Reiki Usui y Desarrollador de Software. Gusta de la practica del Tai chi chuan estilo Yang. En su vida integra el aspecto lógico, mental y estructurado del desarrollo de software, con el trabajo interno, energético, sensitivo del Qigong y el Reiki. 
 
