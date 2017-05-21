@@ -11,7 +11,7 @@ El contenido de esta página, incluyendo los materiales online, se ofrecen abier
 
 </script>
 
-<table>
+<table border=0>
 	<tr>
     <td><a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=86473927-7064d3d2-f641-4ce5-b814-cf2de968e4f7" name="MP-payButton" class='blue-ar-l-ov-arall'>$10 ARS</a>
 </td>
