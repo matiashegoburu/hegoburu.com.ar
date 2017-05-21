@@ -8,6 +8,8 @@ main:
     url: /reiki/
   - title: "Material On-Line"
     url: /material-online/
+  - title: "Donaciones"
+    url: /donaciones/
   - title: "Contacto"
     url: /contacto/
   # - title: "About"
