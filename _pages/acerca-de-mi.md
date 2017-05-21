@@ -19,6 +19,10 @@ Matías estudió la carrera de Licenciado en Analista en Sistemas en la Universi
 
 Matías se especializa en .NET, especialmente en el lenguaje C#, aunque ha tenido una parte de su carrera en VB.NET. Matías es desarrollador desde el 2007, y desde entonces ha pasado por mutitud de proyectos, clientes y experiencias. 
 
+## Reiki 
+
+Matías es prácticate de Tercer Nivel (Maestría docente) del sistema Reiki Usui Tradicional, lo cuál lo habilita para hacer tratamientos además de enseñar y transmitir este arte a aquellos que se muestren interesados. Actualmente Matías combina la enseñanza del Reiki con el Qigong, por lo que solo ofrece la enseñanza de las técnicas de sanación a sus alumnos. 
+
 ## Qigong
 
 Matías comenzó estudiando Medicina Tradicional China en la Fundación Naturopática Argentina de Mario Schwarz. Allí fue introducido en el mundo del Qigong médico y mas específicamente, del Zhineng Qigong. Este sistema tuvo tal impacto que desde ese momento decidió dejar el estudio de la medicina china y dedicarse de forma exclusiva a profundizar sobre el Zhineng Qigong, debido a su simplicidad, claridad en la forma en que se transmite la enseñanza, flexibilidad a la hora de enseñar, y por sobre todo su efectividad.
@@ -50,3 +54,5 @@ Matías ha comenzando su formación en Yuan Gong en 2017.
 - Escuela de Reiki - Reiki Usui Master / Teacher (2000 - 2003)
 - Escuela Luz Venidera - Terapeuta de Sonido (2000 - 2003)
 - Universidad Abierta Interamericana - Lic. En Sistemas de Información (2000 - 2005)
+
+
