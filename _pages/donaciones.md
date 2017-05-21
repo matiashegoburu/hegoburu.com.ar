@@ -28,5 +28,6 @@ El contenido de esta página, incluyendo los materiales online, se ofrecen abier
 
 Si lo deseas, puedes hacer subscripción mensual a través de MercadoPago, donde se debitará mensualmente el monto que tu elijas. Una donación mensual te habilita para acceder a nuestra clase online (o presencial, si estas por mi zona). Una vez hecha la subscripción, ponte en contacto conmigo para organizar los detalles.
 
-                    
+<p style="text-align: center;" >                    
 <a mp-mode="dftl" href="http://mpago.la/816s" name="MP-payButton" class='red-ar-l-ov-undefined'>Suscribirme</a>
+</p>
