@@ -54,5 +54,3 @@ Matías ha comenzando su formación en Yuan Gong en 2017.
 - Escuela de Reiki - Reiki Usui Master / Teacher (2000 - 2003)
 - Escuela Luz Venidera - Terapeuta de Sonido (2000 - 2003)
 - Universidad Abierta Interamericana - Lic. En Sistemas de Información (2000 - 2005)
-
-
