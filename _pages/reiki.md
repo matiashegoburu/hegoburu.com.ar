@@ -1,6 +1,7 @@
 ---
 permalink: /reiki/
 published: true
+title: Reiki
 ---
 <iframe width="637" height="455" src="https://www.youtube.com/embed/xM_JNYL0lm8" frameborder="0" allowfullscreen></iframe>
 
