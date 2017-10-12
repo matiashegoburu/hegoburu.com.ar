@@ -68,6 +68,7 @@ gallery:
   - url: 'https://youtu.be/oeYwGTqpzT0'
     image_path: 'https://img.youtube.com/vi/oeYwGTqpzT0/maxresdefault.jpg'
     alt: Practica - La Unión de los Tres Centros - 03. Demostración
+title: Material online
 ---
 
 ## Curso de Zhi Neng I (Version 2017)
