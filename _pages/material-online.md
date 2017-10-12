@@ -70,6 +70,5 @@ gallery:
     alt: Practica - La Unión de los Tres Centros - 03. Demostración
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## Curso de Zhi Neng I Online (Version 2017)
+{% include gallery caption="Material completo para la practica del primer nivel de Zhi Neng Qigong" %}
