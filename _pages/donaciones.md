@@ -2,8 +2,9 @@
 permalink: /donaciones/
 published: true
 ---
-El contenido de esta página, incluyendo los materiales online, se ofrecen abierta y libremente. Si disfrutas del contenido, y quieres ayudar a que se publique nuevo contenido y a mejorar la calidad del mismo, apreciamos si deseas hacer una donación:
+El contenido de esta página, incluyendo los materiales online, se ofrecen abierta y libremente. Si disfrutas del contenido, y quieres ayudar a que se publique nuevo contenido y a mejorar la calidad del mismo, apreciamos si deseas hacer una donación, a través de los botones a continuación que te permitiran donar un monto especificado en pesos argentinos.
 
+Si deseas ingresar un importe diferente, puedes hacerlo enviando un pago a traves de Mercado Pago a la siguiente dirección de correo electrónico: matiashegoburu@yahoo.com.ar
 
 <script type="text/javascript">
 
