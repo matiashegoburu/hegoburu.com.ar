@@ -90,6 +90,7 @@ gallery:
     title: Practica - La Unión de los Tres Centros - 03. Demostración
 title: Material online
 ---
+El material incluido en esta página es completamente gratuito. Si te gusta el contenido y deseas colaborar para que pueda seguir creando y mejorar la calidad del mismo, te invito a [hacer una donación haciendo click aquí](/donaciones/)
 
 ## Curso de Zhi Neng I (Version 2017)
 {% include gallery caption="Material completo para la practica del primer nivel de Zhi Neng Qigong" %}
