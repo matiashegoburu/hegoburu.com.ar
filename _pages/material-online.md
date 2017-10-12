@@ -70,5 +70,5 @@ gallery:
     alt: Practica - La Unión de los Tres Centros - 03. Demostración
 ---
 
-## Curso de Zhi Neng I Online (Version 2017)
+## Curso de Zhi Neng I (Version 2017)
 {% include gallery caption="Material completo para la practica del primer nivel de Zhi Neng Qigong" %}
