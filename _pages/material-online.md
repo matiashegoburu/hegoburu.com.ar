@@ -42,8 +42,32 @@ gallery:
     image_path: 'https://img.youtube.com/vi/iNEaxJSM0Ec/default.jpg'
     alt: Practica - El Metodo de Elevar y Volcar - 02. Puntos de acupuntura
   - url: 'https://youtu.be/JfRjlZNoGNE'
-    image_path: 'https://img.youtube.com/vi/iNEaxJSM0Ec/JfRjlZNoGNE.jpg'
+    image_path: 'https://img.youtube.com/vi/JfRjlZNoGNE/default.jpg'
     alt: Practica - El Metodo de Elevar y Volcar - 03. Visualizacion
+  - url: 'https://youtu.be/lfJ7LfcMw-M'
+    image_path: 'https://img.youtube.com/vi/lfJ7LfcMw-M/default.jpg'
+    alt: Practica - El Metodo de Elevar y Volcar - 04. Apertura
+  - url: 'https://youtu.be/HNhtYAJglQ4'
+    image_path: 'https://img.youtube.com/vi/HNhtYAJglQ4/default.jpg'
+    alt: Practica - El Metodo de Elevar y Volcar - 05. Primer segmento
+  - url: 'https://youtu.be/2VlR-MCSv7c'
+    image_path: 'https://img.youtube.com/vi/2VlR-MCSv7c/default.jpg'
+    alt: Practica - El Metodo de Elevar y Volcar - 06. Segundo segmento
+  - url: 'https://youtu.be/T4oI8isnGnA'
+    image_path: 'https://img.youtube.com/vi/T4oI8isnGnA/default.jpg'
+    alt: Practica - El Metodo de Elevar y Volcar - 07. Tercer segmento
+  - url: 'https://youtu.be/613dzUcOlwI'
+    image_path: 'https://img.youtube.com/vi/613dzUcOlwI/default.jpg'
+    alt: Practica - El Metodo de Elevar y Volcar - 08. Cierre
+  - url: 'https://youtu.be/EvYlThFYtVc'
+    image_path: 'https://img.youtube.com/vi/EvYlThFYtVc/default.jpg'
+    alt: Practica - La Unión de los Tres Centros - 01. Introduccion
+  - url: 'https://youtu.be/5-3H1fDRwa0'
+    image_path: 'https://img.youtube.com/vi/5-3H1fDRwa0/default.jpg'
+    alt: Practica - La Unión de los Tres Centros - 02. Cómo practicar correctamente
+  - url: 'https://youtu.be/oeYwGTqpzT0'
+    image_path: 'https://img.youtube.com/vi/oeYwGTqpzT0/default.jpg'
+    alt: Practica - La Unión de los Tres Centros - 03. Demostración
 ---
 
 ## A New Post
