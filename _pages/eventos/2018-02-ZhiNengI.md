@@ -8,6 +8,7 @@ header:
 
 ## INTRODUCCIÓN
 Zhineng Qigong es un sistema simple de aprender y fácil de practicar. Es apto para personas de todas las edades y condición física. No requiere ningun tipo de entrenamiento previo, y es apto incluso para personas con dificultades de salud.
+
 ## OBJETIVO
 El objetivo del retiro es estar en un ambiente tranquilo, alejado de los apuros y de las prisas, en contacto con la naturaleza, y realizar un trabajo intensivo de sanación y de conexión con nosotros mismos a través de la práctica del Primer Gran Método de Zhineng Qigong. Se busca que al final del seminario, los participantes: 
 hayan experimentado la conexión con sus propios cuerpos, 
@@ -25,15 +26,14 @@ por WhatsApp: +1 202-763-1832
 
 ## COSTOS
 El valor del retiro es:
-Hasta el 1 de Enero de 2018: $5000 ARS
-Desde el 2 de Enero al 29 de Enero: $6000 ARS
+- Hasta el 1 de Enero de 2018: $5000 ARS
+- Desde el 2 de Enero al 29 de Enero: $6000 ARS
 
 El precio incluye: 
-+37 horas de seminario teórico práctico
-Alojamiento por 5 noche y 6 días en habitación compartida
-Desayuno, almuerzos, meriendas y cenas (personas que sigan una dieta especial, consultar)
-Material de estudio del contenido del taller
- 
+- 37 horas de seminario teórico práctico
+- Alojamiento por 5 noche y 6 días en habitación compartida
+- Desayuno, almuerzos, meriendas y cenas (personas que sigan una dieta especial, consultar)
+- Material de estudio del contenido del taller
 
 ## TEMARIO
 
@@ -104,6 +104,7 @@ El primer nivel de Zhineng tiene los siguientes beneficios:
 Mejoramiento de la salud y fortalecimiento de las funciones de la vida. En un período corto de práctica, la salud del practicante mejora notablemente.
 Con la practica sostenida, se aguidizan los órganos sensoriales y se desarrolla la mente, la concentración y se desarrolla el potencial interno de cada persona.
 Es un método muy efectivo para acumular Qi
+
 ## ACERCA DE SUEÑOS DEL ALMA
 En “Sueños del Alma” Te invitamos a vivir una experiencia en contacto con la naturaleza: arroyito, arboles ancianos, vegetación autóctona, piedras, el sonido del viento, las estrellas, fauna autóctona, los colores del atardecer y del amanecer… Cerca de Todo y a la vez inmerso en la naturaleza, abstraídos de ruidos y contaminación. 
 
@@ -113,19 +114,22 @@ GPS: 31°23'08.6"S 64°32'57.4"W
 
 **Vía aérea**
 Desde el aeropuerto internacional de Córdoba “Pajas blancas”, deberá tomar hacia la ciudad de Villa Carlos Paz.  Una vez allí seguir las instrucciones de “Vía Terrestre”
+
 **Vía Terrestre: Desde Buenos Aires**
 1. Tomando por la ruta no. 9, seguir hasta acceder a la autopista nacional 008.
-2. Posteriormente, ingresara a la ruta local, luego a la ruta provincial No. 26, para volver a la ruta nacional No. 9.
-3. Más adelante, tomará la ruta nacional No. 20 y seguirá por la ruta nacional No. 38 hasta llegar a la ciudad de Villa Carlos Paz.  
+1. Posteriormente, ingresara a la ruta local, luego a la ruta provincial No. 26, para volver a la ruta nacional No. 9.
+1. Más adelante, tomará la ruta nacional No. 20 y seguirá por la ruta nacional No. 38 hasta llegar a la ciudad de Villa Carlos Paz.
+
 **Vía Terrestre: Desde San Luis**
 1. Saliendo por la ruta Nacional No. 146 tomara luego la ruta nacional No 20.
-2. Al pasar por la región de Tras la sierra seguirá la ruta local hasta incorporarse a la ruta provincial No. 14.
-3. Seguirá por la ruta nacional No. 38 que lo llevara a la ciudad de Villa Carlos Paz.
+1. Al pasar por la región de Tras la sierra seguirá la ruta local hasta incorporarse a la ruta provincial No. 14.
+1. Seguirá por la ruta nacional No. 38 que lo llevara a la ciudad de Villa Carlos Paz.
+
 **Vía Terrestre: Desde Rosario**
 1. Saliendo por medio de la ruta nacional No 33, tomara la autopista nacional No. 008 hasta acceder a la ruta nacional No. 9.
-2.  Se incorporara a la ruta nacional No. 20, seguirá por la ruta provincial No 38, y luego por la ruta que conducirá a la Ciudad de Villa Carlos Paz
-3. Continúas por la ruta 38 hasta el Cruce que desvía a TANTI por ruta 28, allí recorres 2,5km hasta visualizar el primer cartel “Bienvenidos a TANTI”, allí tienes que ingresar por el camino de tierra que se encuentra a la izquierda de la ruta “calle VENEZUELA” 
-4. Por la calle Venezuela recorres 3.2km llegas al portón de ingreso (portón Blanco), de allí son 600mts hasta llegar a la casa principal.
+1.  Se incorporara a la ruta nacional No. 20, seguirá por la ruta provincial No 38, y luego por la ruta que conducirá a la Ciudad de Villa Carlos Paz
+1. Continúas por la ruta 38 hasta el Cruce que desvía a TANTI por ruta 28, allí recorres 2,5km hasta visualizar el primer cartel “Bienvenidos a TANTI”, allí tienes que ingresar por el camino de tierra que se encuentra a la izquierda de la ruta “calle VENEZUELA” 
+1. Por la calle Venezuela recorres 3.2km llegas al portón de ingreso (portón Blanco), de allí son 600mts hasta llegar a la casa principal.
 
 IMPORTANTE: una vez que cruzas la primer tranquera veras un cartel que dice Sueños del Alma colgado de un Árbol (Eucaliptus), veras varios cartelitos que indican el camino. Préstales atención (siembre toma el camino de la derecha).-
 
@@ -138,10 +142,12 @@ Nuestro hexágono: espacio techado para disfrutar del aire libre.
 Nuestro Comedor hexagonal: con una vista increíble y mucha calidez.- 
 EL Arroyo y la Cascada: a 100mts de “la casa grande” tenemos una bellísima cascadita del afluente del arroyo Las Salinas, un pasadizo de cañas tacuaras, un diquecito apto para refrescarse y más de 500mts de arroyo para caminarlo y disfrutar de sus encantos. 
 Lugar de Fogón: El fuego siempre es nuestro compañero. 
+
 ### LOS RECURSOS: LUZ, GAS, AGUA
 Agua es de Pozo, Luz eléctrica. 
 El Gas es de garrafa. 
 El Agua caliente de los Baños será suministrada mediante un calefón a leña. Se acordaran horario para bañarse.
+
 ### SUGERENCIAS PARA MAYOR COMODIDAD DURANTE LA ESTADÍA
 Linterna, toalla y toallón, elementos de higiene personal, repelente, abrigo para la noche, buen calzado, ojotas o chancletas para estar adentro, pareo o lona para el rio, sombrero o gorra para el sol, botella 500ml o recipiente para beber agua con continuidad, gafas de sol, cámara de fotos, equipo de mate… 
 Si toma medicación recuerde traerla.
