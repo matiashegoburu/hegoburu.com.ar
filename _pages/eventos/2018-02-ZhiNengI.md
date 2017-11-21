@@ -2,7 +2,7 @@
 permalink: /eventos/zhineng-1-el-metodo-de-elevar-y-volcar
 published: true
 header:
-  image: /assets/images/2018-02-zhineng1/Facebook.png
+  overlay_image: /assets/images/2018-02-zhineng1/Facebook.png
   caption: ''
 ---
 
