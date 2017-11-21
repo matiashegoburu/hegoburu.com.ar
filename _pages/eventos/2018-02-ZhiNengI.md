@@ -17,12 +17,13 @@ se puedan llevar una herramienta para trabajar sobre ellos mismos al retornar a 
 tengan herramientas para fortalecer la energía y las estructuras físicas de su centro y columna vertical
 
 ## INSCRIPCIONES
-Las inscripciones cierran el Domingo 29 de Enero de 2018. 
+Las inscripciones cierran el **Domingo 29 de Enero de 2018**. 
 La inscripción se puede realizar por los siguientes medios:
-por correo electrónico a matias@hegoburu.com.ar
-a través de la página web: http://matias.hegoburu.com.ar/contacto/
-a través de facebook: https://www.facebook.com/matias.hegoburu
-por WhatsApp: +1 202-763-1832
+
+- por correo electrónico a matias@hegoburu.com.ar
+- a través de la página web: http://matias.hegoburu.com.ar/contacto/
+- a través de facebook: https://www.facebook.com/matias.hegoburu
+- por WhatsApp: +1 202-763-1832
 
 ## COSTOS
 El valor del retiro es:
