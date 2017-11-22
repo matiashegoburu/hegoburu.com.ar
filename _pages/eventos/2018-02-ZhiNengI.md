@@ -1,9 +1,10 @@
 ---
-permalink: /eventos/zhineng-1-el-metodo-de-elevar-y-volcar
+permalink: /eventos/2018-02-zhineng-1-el-metodo-de-elevar-y-volcar
 published: true
 header:
   image: /assets/images/2018-02-zhineng1/Facebook.png
   caption: ''
+title: 'Retiro 2018: El Método de Elevar y Volcar'
 ---
 
 ## INTRODUCCIÓN
