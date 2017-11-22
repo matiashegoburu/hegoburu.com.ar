@@ -6,7 +6,7 @@ El contenido de esta página, incluyendo los materiales online, se ofrecen abier
 
 Si deseas ingresar un importe diferente, puedes hacerlo enviando un pago a traves de Mercado Pago a la siguiente dirección de correo electrónico: matiashegoburu@yahoo.com.ar
 
-Tambien puedes enviarme dinero via PayPal a través de este link: (paypal.me/matiashegoburu)[paypal.me/matiashegoburu]
+Tambien puedes enviarme dinero via PayPal a través de este link: [paypal.me/matiashegoburu](paypal.me/matiashegoburu)
 
 <script type="text/javascript">
 
