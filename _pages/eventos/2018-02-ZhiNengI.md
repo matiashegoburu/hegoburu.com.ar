@@ -64,9 +64,10 @@ El precio incluye:
 1. Teoría y ejercicios adicionales segun las necesidades del grupo
 
 ## CRONOGRAMA
-Hora de Inicio: 07:30:00		
-Hora de Fin: 22:00:00		
-Duración: 14:30:00		
+- Hora de Inicio: 07:30:00		
+- Hora de Fin: 22:00:00		
+- Duración: 14:30:00
+		
 			
 |Duración	|Hora de Inicio	|Hora de Fin	|Descripción
 |:---------:|:-------------:|:-------------:|-----------
