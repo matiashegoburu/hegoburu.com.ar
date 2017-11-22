@@ -68,18 +68,19 @@ Hora de Inicio: 07:30:00
 Hora de Fin: 22:00:00		
 Duración: 14:30:00		
 			
-Duración	|Hora de Inicio	|Hora de Fin	|Descripción
-01:30:00	|07:30:00	|09:00:00	|Ejercicios Fundamentales y Taiji ball 1
-01:00:00	|09:00:00	|10:00:00	|Desayuno
-02:30:00	|10:00:00	|12:30:00	|Formacion y practica de la mañana
-00:30:00	|12:30:00	|13:00:00	|Break
-02:00:00	|13:00:00	|15:00:00	|Almuerzo
-01:00:00	|15:00:00	|16:00:00	|Break
-02:00:00	|16:00:00	|18:00:00	|Formacion y practica de la tarde
-01:00:00	|18:00:00	|19:00:00	|Merienda
-01:30:00	|19:00:00	|20:30:00	|Sanación grupal
-00:30:00	|20:30:00	|21:00:00	|Break
-01:00:00	|21:00:00	|22:00:00	|Cena
+|Duración	|Hora de Inicio	|Hora de Fin	|Descripción
+|:---------:|:-------------:|:-------------:|-----------
+|01:30:00	|07:30:00	|09:00:00	|Ejercicios Fundamentales y Taiji ball 1
+|01:00:00	|09:00:00	|10:00:00	|Desayuno
+|02:30:00	|10:00:00	|12:30:00	|Formacion y practica de la mañana
+|00:30:00	|12:30:00	|13:00:00	|Break
+|02:00:00	|13:00:00	|15:00:00	|Almuerzo
+|01:00:00	|15:00:00	|16:00:00	|Break
+|02:00:00	|16:00:00	|18:00:00	|Formacion y practica de la tarde
+|01:00:00	|18:00:00	|19:00:00	|Merienda
+|01:30:00	|19:00:00	|20:30:00	|Sanación grupal
+|00:30:00	|20:30:00	|21:00:00	|Break
+|01:00:00	|21:00:00	|22:00:00	|Cena
 
 
 ## ACERCA DE MATÍAS HEGOBURU
