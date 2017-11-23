@@ -31,7 +31,7 @@ El valor del retiro es:
 - Hasta el 14 de Enero de 2018: $5000 ARS
 - Desde el 15 de Enero al 29 de Enero: $6000 ARS
 
-Abonar la inscripción (50%) via mercado pago (se aceptan tarjetas de credito): [http://mpago.la/YLAH](http://mpago.la/YLAH) 
+Abonar la inscripción (50%) via mercado pago (se aceptan tarjetas de credito) **ATENCION: la inscripción es NO REEMBOLSABLE:** [http://mpago.la/YLAH](http://mpago.la/YLAH) 
 
 <a mp-mode="dftl" href="https://www.mercadopago.com/mla/checkout/start?pref_id=86473927-ec6764ae-eccf-40eb-89f9-cb7bd8414dce" name="MP-payButton" class='blue-ar-l-rn-none'>Pagar</a>
 <script type="text/javascript">
