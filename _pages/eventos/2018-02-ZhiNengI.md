@@ -28,8 +28,8 @@ La inscripción se puede realizar por los siguientes medios:
 
 ## COSTOS
 El valor del retiro es:
-- Hasta el 1 de Enero de 2018: $5000 ARS
-- Desde el 2 de Enero al 29 de Enero: $6000 ARS
+- Hasta el 14 de Enero de 2018: $5000 ARS
+- Desde el 15 de Enero al 29 de Enero: $6000 ARS
 
 El precio incluye: 
 - 37 horas de seminario teórico práctico
