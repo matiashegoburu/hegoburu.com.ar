@@ -1,6 +1,6 @@
 ---
 permalink: /donaciones/
-published: true
+published: false
 ---
 El contenido de esta página, incluyendo los materiales online, se ofrecen abierta y libremente. Si disfrutas del contenido, y quieres ayudar a que se publique nuevo contenido y a mejorar la calidad del mismo, apreciamos si deseas hacer una donación, a través de los botones a continuación que te permitiran donar un monto especificado en pesos argentinos.
 
